@@ -1,0 +1,8 @@
+metadata:
+  version: 0.10
+data:
+  espressions:
+  - body: 'connoisseur'
+    definition: 'Someone who has a lot of experience of something and knows a lot about it.'
+    context: 'He is a lover of arts. He is a connoisseur. But not a collector.'
+    context_source: 'The Man in the high Castle, Philip K. Dick, 1962'
